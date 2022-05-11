@@ -1,0 +1,103 @@
+﻿
+@{
+    ViewBag.Title = "Check_out";
+}
+
+<h2>Check_out</h2>
+<div align="right">
+    <a href="/Home/Checkin_Checkout">IR A INGRESO Y SALIDA DE HUÉSPEDES</a>
+</div>
+
+<div align="left">
+    <a href="/Home/Check_in">IR A CHECK IN </a>
+</div><br />
+
+<form class="form-horizontal" action="/cobros/generarcobro" method="get">
+    <table>
+        <tr>
+            <td>
+                <label class="control-label" for="textinput-15"> Nombre: </label>
+                <div class="controls">
+                    <input id="textinput-15" name="nombre" type="text" placeholder="Ingrese Nombre" class="input-xlarge">
+               </div>
+            </td>
+            <td>
+                <label class="control-label" for="textinput-16"> Apellidos: </label>
+                <div class="controls">
+                    <input id="textinput-16" name="apellidos" type="text" placeholder="Ingrese Apellidos" class="input-xlarge">
+                </div>
+            </td>
+             <td>
+                <label class="control-label" for="textinput-17"> Pasaporte/ CI: </label>
+                <div class="controls">
+                    <input id="textinput-17" name="pasaporte" type="text" placeholder="" class="input-xlarge">
+                </div>
+            </td>
+        </tr>
+    </table>
+
+   <table>
+    <tr>
+        <td>
+            <label class="control-label" for="textinput-18"> Valor : </label>
+            <div class="controls">
+                <input id="textinput-18" name="precio" type="number" placeholder="" class="input-xlarge">
+            </div>
+        </td>
+
+        <td>
+            <label class="control-label" for="textinput-19"> Iva : </label>
+            <div class="controls">
+                <input id="textinput-19" name="iva" type="number" placeholder="" class="input-xlarge">
+            </div>
+        </td>
+        <td>
+            <label class="control-label" for="textinput-20" > Gastos extras:</label>
+            <div class="controls">
+                <input id="textinput-20" name="gastosextras" type="number" placeholder="" class="input-xlarge">
+            </div>
+        </td>
+      </tr>
+    </table>
+
+            <table>
+                <tr>
+                    <td>
+                        <div class="control-group">
+                            <label class="control-label" for="selectbasic-1"> TIpo de Pago: </label>
+                            <div class="controls">
+                                <select id="selectbasic-1" name="pago" class="input-xlarge">
+                                    <option>Efectivo</option>
+                                    <option>Tarjeta de credito</option>
+                                    <option>Tarjeta de debito</option>
+                                </select>
+                            </div>
+                        </div>
+                    </td>
+                    <td>
+                        <div class="control-group">
+                            <label class="control-label" for="textinput-21">N° de Tarjeta de credito:</label>
+                            <div class="controls">
+                                <input id="textinput-21" name="tarjeta" type="text" placeholder="" class="input-xlarge">
+
+                            </div>
+                        </div>
+                    </td>
+
+                </tr>
+            </table>
+            <br>
+            <br>
+            <input type="submit" class="btn btn-primary btn-lg" value="Generar cobro"/>
+
+
+            <br>
+            <br >
+
+</form>
+
+<form action="/database/delete" method="get">
+    Rut: <input type="text" name="rutx" value="" />
+    <input type="submit" value="Eliminar Registro " />
+</form><br><br>
+@ViewBag.mensaje

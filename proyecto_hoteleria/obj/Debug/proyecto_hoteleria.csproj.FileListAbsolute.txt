@@ -1,0 +1,409 @@
+C:\Users\geral\Desktop\C#\proyecto_hoteleria\proyecto_hoteleria\bin\ApplicationInsights.config
+C:\Users\geral\Desktop\C#\proyecto_hoteleria\proyecto_hoteleria\bin\roslyn\csc.exe
+C:\Users\geral\Desktop\C#\proyecto_hoteleria\proyecto_hoteleria\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\geral\Desktop\C#\proyecto_hoteleria\proyecto_hoteleria\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\geral\Desktop\C#\proyecto_hoteleria\proyecto_hoteleria\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\geral\Desktop\C#\proyecto_hoteleria\proyecto_hoteleria\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\geral\Desktop\C#\proyecto_hoteleria\proyecto_hoteleria\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\geral\Desktop\C#\proyecto_hoteleria\proyecto_hoteleria\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\geral\Desktop\C#\proyecto_hoteleria\proyecto_hoteleria\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\geral\Desktop\C#\proyecto_hoteleria\proyecto_hoteleria\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\geral\Desktop\C#\proyecto_hoteleria\proyecto_hoteleria\bin\roslyn\vbc.exe
+C:\Users\geral\Desktop\C#\proyecto_hoteleria\proyecto_hoteleria\bin\roslyn\VBCSCompiler.exe
+C:\Users\geral\Desktop\C#\proyecto_hoteleria\proyecto_hoteleria\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\geral\Desktop\C#\proyecto_hoteleria\proyecto_hoteleria\bin\proyecto_hoteleria.dll.config
+C:\Users\geral\Desktop\C#\proyecto_hoteleria\proyecto_hoteleria\bin\proyecto_hoteleria.dll
+C:\Users\geral\Desktop\C#\proyecto_hoteleria\proyecto_hoteleria\bin\proyecto_hoteleria.pdb
+C:\Users\geral\Desktop\C#\proyecto_hoteleria\proyecto_hoteleria\bin\Antlr3.Runtime.dll
+C:\Users\geral\Desktop\C#\proyecto_hoteleria\proyecto_hoteleria\bin\EntityFramework.dll
+C:\Users\geral\Desktop\C#\proyecto_hoteleria\proyecto_hoteleria\bin\EntityFramework.SqlServer.dll
+C:\Users\geral\Desktop\C#\proyecto_hoteleria\proyecto_hoteleria\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\geral\Desktop\C#\proyecto_hoteleria\proyecto_hoteleria\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\geral\Desktop\C#\proyecto_hoteleria\proyecto_hoteleria\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\geral\Desktop\C#\proyecto_hoteleria\proyecto_hoteleria\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\geral\Desktop\C#\proyecto_hoteleria\proyecto_hoteleria\bin\Microsoft.AI.Web.dll
+C:\Users\geral\Desktop\C#\proyecto_hoteleria\proyecto_hoteleria\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\geral\Desktop\C#\proyecto_hoteleria\proyecto_hoteleria\bin\Microsoft.ApplicationInsights.dll
+C:\Users\geral\Desktop\C#\proyecto_hoteleria\proyecto_hoteleria\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\geral\Desktop\C#\proyecto_hoteleria\proyecto_hoteleria\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\geral\Desktop\C#\proyecto_hoteleria\proyecto_hoteleria\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\geral\Desktop\C#\proyecto_hoteleria\proyecto_hoteleria\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\geral\Desktop\C#\proyecto_hoteleria\proyecto_hoteleria\bin\Microsoft.Owin.dll
+C:\Users\geral\Desktop\C#\proyecto_hoteleria\proyecto_hoteleria\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\geral\Desktop\C#\proyecto_hoteleria\proyecto_hoteleria\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\geral\Desktop\C#\proyecto_hoteleria\proyecto_hoteleria\bin\Microsoft.Owin.Security.dll
+C:\Users\geral\Desktop\C#\proyecto_hoteleria\proyecto_hoteleria\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\geral\Desktop\C#\proyecto_hoteleria\proyecto_hoteleria\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\geral\Desktop\C#\proyecto_hoteleria\proyecto_hoteleria\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\geral\Desktop\C#\proyecto_hoteleria\proyecto_hoteleria\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\geral\Desktop\C#\proyecto_hoteleria\proyecto_hoteleria\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\geral\Desktop\C#\proyecto_hoteleria\proyecto_hoteleria\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\geral\Desktop\C#\proyecto_hoteleria\proyecto_hoteleria\bin\Newtonsoft.Json.dll
+C:\Users\geral\Desktop\C#\proyecto_hoteleria\proyecto_hoteleria\bin\Owin.dll
+C:\Users\geral\Desktop\C#\proyecto_hoteleria\proyecto_hoteleria\bin\System.Web.Helpers.dll
+C:\Users\geral\Desktop\C#\proyecto_hoteleria\proyecto_hoteleria\bin\System.Web.Mvc.dll
+C:\Users\geral\Desktop\C#\proyecto_hoteleria\proyecto_hoteleria\bin\System.Web.Optimization.dll
+C:\Users\geral\Desktop\C#\proyecto_hoteleria\proyecto_hoteleria\bin\System.Web.Razor.dll
+C:\Users\geral\Desktop\C#\proyecto_hoteleria\proyecto_hoteleria\bin\System.Web.WebPages.Deployment.dll
+C:\Users\geral\Desktop\C#\proyecto_hoteleria\proyecto_hoteleria\bin\System.Web.WebPages.dll
+C:\Users\geral\Desktop\C#\proyecto_hoteleria\proyecto_hoteleria\bin\System.Web.WebPages.Razor.dll
+C:\Users\geral\Desktop\C#\proyecto_hoteleria\proyecto_hoteleria\bin\WebGrease.dll
+C:\Users\geral\Desktop\C#\proyecto_hoteleria\proyecto_hoteleria\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\geral\Desktop\C#\proyecto_hoteleria\proyecto_hoteleria\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\geral\Desktop\C#\proyecto_hoteleria\proyecto_hoteleria\bin\Microsoft.AI.Web.xml
+C:\Users\geral\Desktop\C#\proyecto_hoteleria\proyecto_hoteleria\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\geral\Desktop\C#\proyecto_hoteleria\proyecto_hoteleria\bin\Microsoft.ApplicationInsights.xml
+C:\Users\geral\Desktop\C#\proyecto_hoteleria\proyecto_hoteleria\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\geral\Desktop\C#\proyecto_hoteleria\proyecto_hoteleria\bin\System.Web.Helpers.xml
+C:\Users\geral\Desktop\C#\proyecto_hoteleria\proyecto_hoteleria\bin\System.Web.Mvc.xml
+C:\Users\geral\Desktop\C#\proyecto_hoteleria\proyecto_hoteleria\bin\System.Web.Optimization.xml
+C:\Users\geral\Desktop\C#\proyecto_hoteleria\proyecto_hoteleria\bin\System.Web.Razor.xml
+C:\Users\geral\Desktop\C#\proyecto_hoteleria\proyecto_hoteleria\bin\System.Web.WebPages.xml
+C:\Users\geral\Desktop\C#\proyecto_hoteleria\proyecto_hoteleria\bin\System.Web.WebPages.Deployment.xml
+C:\Users\geral\Desktop\C#\proyecto_hoteleria\proyecto_hoteleria\bin\System.Web.WebPages.Razor.xml
+C:\Users\geral\Desktop\C#\proyecto_hoteleria\proyecto_hoteleria\bin\Antlr3.Runtime.pdb
+C:\Users\geral\Desktop\C#\proyecto_hoteleria\proyecto_hoteleria\bin\Newtonsoft.Json.xml
+C:\Users\geral\Desktop\C#\proyecto_hoteleria\proyecto_hoteleria\bin\EntityFramework.xml
+C:\Users\geral\Desktop\C#\proyecto_hoteleria\proyecto_hoteleria\bin\EntityFramework.SqlServer.xml
+C:\Users\geral\Desktop\C#\proyecto_hoteleria\proyecto_hoteleria\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\geral\Desktop\C#\proyecto_hoteleria\proyecto_hoteleria\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\geral\Desktop\C#\proyecto_hoteleria\proyecto_hoteleria\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\geral\Desktop\C#\proyecto_hoteleria\proyecto_hoteleria\bin\Microsoft.Owin.xml
+C:\Users\geral\Desktop\C#\proyecto_hoteleria\proyecto_hoteleria\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\geral\Desktop\C#\proyecto_hoteleria\proyecto_hoteleria\bin\Microsoft.Owin.Security.xml
+C:\Users\geral\Desktop\C#\proyecto_hoteleria\proyecto_hoteleria\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\geral\Desktop\C#\proyecto_hoteleria\proyecto_hoteleria\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\geral\Desktop\C#\proyecto_hoteleria\proyecto_hoteleria\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\geral\Desktop\C#\proyecto_hoteleria\proyecto_hoteleria\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\geral\Desktop\C#\proyecto_hoteleria\proyecto_hoteleria\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\geral\Desktop\C#\proyecto_hoteleria\proyecto_hoteleria\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\geral\Desktop\C#\proyecto_hoteleria\proyecto_hoteleria\bin\es\System.Web.Helpers.resources.dll
+C:\Users\geral\Desktop\C#\proyecto_hoteleria\proyecto_hoteleria\bin\es\System.Web.Mvc.resources.dll
+C:\Users\geral\Desktop\C#\proyecto_hoteleria\proyecto_hoteleria\bin\es\System.Web.Optimization.resources.dll
+C:\Users\geral\Desktop\C#\proyecto_hoteleria\proyecto_hoteleria\bin\es\System.Web.Razor.resources.dll
+C:\Users\geral\Desktop\C#\proyecto_hoteleria\proyecto_hoteleria\bin\es\System.Web.WebPages.resources.dll
+C:\Users\geral\Desktop\C#\proyecto_hoteleria\proyecto_hoteleria\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\geral\Desktop\C#\proyecto_hoteleria\proyecto_hoteleria\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\geral\Desktop\C#\proyecto_hoteleria\proyecto_hoteleria\bin\es\EntityFramework.resources.dll
+C:\Users\geral\Desktop\C#\proyecto_hoteleria\proyecto_hoteleria\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\geral\Desktop\C#\proyecto_hoteleria\proyecto_hoteleria\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\geral\Desktop\C#\proyecto_hoteleria\proyecto_hoteleria\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\geral\Desktop\C#\proyecto_hoteleria\proyecto_hoteleria\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\geral\Desktop\C#\proyecto_hoteleria\proyecto_hoteleria\bin\es\Microsoft.Owin.resources.dll
+C:\Users\geral\Desktop\C#\proyecto_hoteleria\proyecto_hoteleria\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\geral\Desktop\C#\proyecto_hoteleria\proyecto_hoteleria\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\geral\Desktop\C#\proyecto_hoteleria\proyecto_hoteleria\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\geral\Desktop\C#\proyecto_hoteleria\proyecto_hoteleria\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\geral\Desktop\C#\proyecto_hoteleria\proyecto_hoteleria\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\geral\Desktop\C#\proyecto_hoteleria\proyecto_hoteleria\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\geral\Desktop\C#\proyecto_hoteleria\proyecto_hoteleria\obj\Debug\proyecto_hoteleria.csprojResolveAssemblyReference.cache
+C:\Users\geral\Desktop\C#\proyecto_hoteleria\proyecto_hoteleria\obj\Debug\proyecto_hoteleria.dll
+C:\Users\geral\Desktop\C#\proyecto_hoteleria\proyecto_hoteleria\obj\Debug\proyecto_hoteleria.pdb
+C:\Users\ALUMNOS\Desktop\proyecto_hoteleria_preliminar\proyecto_hoteleria\proyecto_hoteleria\bin\ApplicationInsights.config
+C:\Users\ALUMNOS\Desktop\proyecto_hoteleria_preliminar\proyecto_hoteleria\proyecto_hoteleria\bin\roslyn\csc.exe
+C:\Users\ALUMNOS\Desktop\proyecto_hoteleria_preliminar\proyecto_hoteleria\proyecto_hoteleria\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ALUMNOS\Desktop\proyecto_hoteleria_preliminar\proyecto_hoteleria\proyecto_hoteleria\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ALUMNOS\Desktop\proyecto_hoteleria_preliminar\proyecto_hoteleria\proyecto_hoteleria\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ALUMNOS\Desktop\proyecto_hoteleria_preliminar\proyecto_hoteleria\proyecto_hoteleria\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ALUMNOS\Desktop\proyecto_hoteleria_preliminar\proyecto_hoteleria\proyecto_hoteleria\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ALUMNOS\Desktop\proyecto_hoteleria_preliminar\proyecto_hoteleria\proyecto_hoteleria\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ALUMNOS\Desktop\proyecto_hoteleria_preliminar\proyecto_hoteleria\proyecto_hoteleria\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ALUMNOS\Desktop\proyecto_hoteleria_preliminar\proyecto_hoteleria\proyecto_hoteleria\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ALUMNOS\Desktop\proyecto_hoteleria_preliminar\proyecto_hoteleria\proyecto_hoteleria\bin\roslyn\vbc.exe
+C:\Users\ALUMNOS\Desktop\proyecto_hoteleria_preliminar\proyecto_hoteleria\proyecto_hoteleria\bin\roslyn\VBCSCompiler.exe
+C:\Users\ALUMNOS\Desktop\proyecto_hoteleria_preliminar\proyecto_hoteleria\proyecto_hoteleria\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ALUMNOS\Desktop\proyecto_hoteleria_preliminar\proyecto_hoteleria\proyecto_hoteleria\bin\proyecto_hoteleria.dll.config
+C:\Users\ALUMNOS\Desktop\proyecto_hoteleria_preliminar\proyecto_hoteleria\proyecto_hoteleria\bin\proyecto_hoteleria.dll
+C:\Users\ALUMNOS\Desktop\proyecto_hoteleria_preliminar\proyecto_hoteleria\proyecto_hoteleria\bin\proyecto_hoteleria.pdb
+C:\Users\ALUMNOS\Desktop\proyecto_hoteleria_preliminar\proyecto_hoteleria\proyecto_hoteleria\bin\Antlr3.Runtime.dll
+C:\Users\ALUMNOS\Desktop\proyecto_hoteleria_preliminar\proyecto_hoteleria\proyecto_hoteleria\bin\EntityFramework.dll
+C:\Users\ALUMNOS\Desktop\proyecto_hoteleria_preliminar\proyecto_hoteleria\proyecto_hoteleria\bin\EntityFramework.SqlServer.dll
+C:\Users\ALUMNOS\Desktop\proyecto_hoteleria_preliminar\proyecto_hoteleria\proyecto_hoteleria\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ALUMNOS\Desktop\proyecto_hoteleria_preliminar\proyecto_hoteleria\proyecto_hoteleria\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ALUMNOS\Desktop\proyecto_hoteleria_preliminar\proyecto_hoteleria\proyecto_hoteleria\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ALUMNOS\Desktop\proyecto_hoteleria_preliminar\proyecto_hoteleria\proyecto_hoteleria\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ALUMNOS\Desktop\proyecto_hoteleria_preliminar\proyecto_hoteleria\proyecto_hoteleria\bin\Microsoft.AI.Web.dll
+C:\Users\ALUMNOS\Desktop\proyecto_hoteleria_preliminar\proyecto_hoteleria\proyecto_hoteleria\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ALUMNOS\Desktop\proyecto_hoteleria_preliminar\proyecto_hoteleria\proyecto_hoteleria\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ALUMNOS\Desktop\proyecto_hoteleria_preliminar\proyecto_hoteleria\proyecto_hoteleria\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ALUMNOS\Desktop\proyecto_hoteleria_preliminar\proyecto_hoteleria\proyecto_hoteleria\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ALUMNOS\Desktop\proyecto_hoteleria_preliminar\proyecto_hoteleria\proyecto_hoteleria\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ALUMNOS\Desktop\proyecto_hoteleria_preliminar\proyecto_hoteleria\proyecto_hoteleria\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ALUMNOS\Desktop\proyecto_hoteleria_preliminar\proyecto_hoteleria\proyecto_hoteleria\bin\Microsoft.Owin.dll
+C:\Users\ALUMNOS\Desktop\proyecto_hoteleria_preliminar\proyecto_hoteleria\proyecto_hoteleria\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ALUMNOS\Desktop\proyecto_hoteleria_preliminar\proyecto_hoteleria\proyecto_hoteleria\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ALUMNOS\Desktop\proyecto_hoteleria_preliminar\proyecto_hoteleria\proyecto_hoteleria\bin\Microsoft.Owin.Security.dll
+C:\Users\ALUMNOS\Desktop\proyecto_hoteleria_preliminar\proyecto_hoteleria\proyecto_hoteleria\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\ALUMNOS\Desktop\proyecto_hoteleria_preliminar\proyecto_hoteleria\proyecto_hoteleria\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\ALUMNOS\Desktop\proyecto_hoteleria_preliminar\proyecto_hoteleria\proyecto_hoteleria\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\ALUMNOS\Desktop\proyecto_hoteleria_preliminar\proyecto_hoteleria\proyecto_hoteleria\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\ALUMNOS\Desktop\proyecto_hoteleria_preliminar\proyecto_hoteleria\proyecto_hoteleria\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\ALUMNOS\Desktop\proyecto_hoteleria_preliminar\proyecto_hoteleria\proyecto_hoteleria\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ALUMNOS\Desktop\proyecto_hoteleria_preliminar\proyecto_hoteleria\proyecto_hoteleria\bin\Newtonsoft.Json.dll
+C:\Users\ALUMNOS\Desktop\proyecto_hoteleria_preliminar\proyecto_hoteleria\proyecto_hoteleria\bin\Owin.dll
+C:\Users\ALUMNOS\Desktop\proyecto_hoteleria_preliminar\proyecto_hoteleria\proyecto_hoteleria\bin\System.Web.Helpers.dll
+C:\Users\ALUMNOS\Desktop\proyecto_hoteleria_preliminar\proyecto_hoteleria\proyecto_hoteleria\bin\System.Web.Mvc.dll
+C:\Users\ALUMNOS\Desktop\proyecto_hoteleria_preliminar\proyecto_hoteleria\proyecto_hoteleria\bin\System.Web.Optimization.dll
+C:\Users\ALUMNOS\Desktop\proyecto_hoteleria_preliminar\proyecto_hoteleria\proyecto_hoteleria\bin\System.Web.Razor.dll
+C:\Users\ALUMNOS\Desktop\proyecto_hoteleria_preliminar\proyecto_hoteleria\proyecto_hoteleria\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ALUMNOS\Desktop\proyecto_hoteleria_preliminar\proyecto_hoteleria\proyecto_hoteleria\bin\System.Web.WebPages.dll
+C:\Users\ALUMNOS\Desktop\proyecto_hoteleria_preliminar\proyecto_hoteleria\proyecto_hoteleria\bin\System.Web.WebPages.Razor.dll
+C:\Users\ALUMNOS\Desktop\proyecto_hoteleria_preliminar\proyecto_hoteleria\proyecto_hoteleria\bin\WebGrease.dll
+C:\Users\ALUMNOS\Desktop\proyecto_hoteleria_preliminar\proyecto_hoteleria\proyecto_hoteleria\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ALUMNOS\Desktop\proyecto_hoteleria_preliminar\proyecto_hoteleria\proyecto_hoteleria\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\ALUMNOS\Desktop\proyecto_hoteleria_preliminar\proyecto_hoteleria\proyecto_hoteleria\bin\Microsoft.AI.Web.xml
+C:\Users\ALUMNOS\Desktop\proyecto_hoteleria_preliminar\proyecto_hoteleria\proyecto_hoteleria\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ALUMNOS\Desktop\proyecto_hoteleria_preliminar\proyecto_hoteleria\proyecto_hoteleria\bin\Microsoft.ApplicationInsights.xml
+C:\Users\ALUMNOS\Desktop\proyecto_hoteleria_preliminar\proyecto_hoteleria\proyecto_hoteleria\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ALUMNOS\Desktop\proyecto_hoteleria_preliminar\proyecto_hoteleria\proyecto_hoteleria\bin\System.Web.Helpers.xml
+C:\Users\ALUMNOS\Desktop\proyecto_hoteleria_preliminar\proyecto_hoteleria\proyecto_hoteleria\bin\System.Web.Mvc.xml
+C:\Users\ALUMNOS\Desktop\proyecto_hoteleria_preliminar\proyecto_hoteleria\proyecto_hoteleria\bin\System.Web.Optimization.xml
+C:\Users\ALUMNOS\Desktop\proyecto_hoteleria_preliminar\proyecto_hoteleria\proyecto_hoteleria\bin\System.Web.Razor.xml
+C:\Users\ALUMNOS\Desktop\proyecto_hoteleria_preliminar\proyecto_hoteleria\proyecto_hoteleria\bin\System.Web.WebPages.xml
+C:\Users\ALUMNOS\Desktop\proyecto_hoteleria_preliminar\proyecto_hoteleria\proyecto_hoteleria\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ALUMNOS\Desktop\proyecto_hoteleria_preliminar\proyecto_hoteleria\proyecto_hoteleria\bin\System.Web.WebPages.Razor.xml
+C:\Users\ALUMNOS\Desktop\proyecto_hoteleria_preliminar\proyecto_hoteleria\proyecto_hoteleria\bin\Antlr3.Runtime.pdb
+C:\Users\ALUMNOS\Desktop\proyecto_hoteleria_preliminar\proyecto_hoteleria\proyecto_hoteleria\bin\Newtonsoft.Json.xml
+C:\Users\ALUMNOS\Desktop\proyecto_hoteleria_preliminar\proyecto_hoteleria\proyecto_hoteleria\bin\EntityFramework.xml
+C:\Users\ALUMNOS\Desktop\proyecto_hoteleria_preliminar\proyecto_hoteleria\proyecto_hoteleria\bin\EntityFramework.SqlServer.xml
+C:\Users\ALUMNOS\Desktop\proyecto_hoteleria_preliminar\proyecto_hoteleria\proyecto_hoteleria\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ALUMNOS\Desktop\proyecto_hoteleria_preliminar\proyecto_hoteleria\proyecto_hoteleria\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ALUMNOS\Desktop\proyecto_hoteleria_preliminar\proyecto_hoteleria\proyecto_hoteleria\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ALUMNOS\Desktop\proyecto_hoteleria_preliminar\proyecto_hoteleria\proyecto_hoteleria\bin\Microsoft.Owin.xml
+C:\Users\ALUMNOS\Desktop\proyecto_hoteleria_preliminar\proyecto_hoteleria\proyecto_hoteleria\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ALUMNOS\Desktop\proyecto_hoteleria_preliminar\proyecto_hoteleria\proyecto_hoteleria\bin\Microsoft.Owin.Security.xml
+C:\Users\ALUMNOS\Desktop\proyecto_hoteleria_preliminar\proyecto_hoteleria\proyecto_hoteleria\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\ALUMNOS\Desktop\proyecto_hoteleria_preliminar\proyecto_hoteleria\proyecto_hoteleria\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ALUMNOS\Desktop\proyecto_hoteleria_preliminar\proyecto_hoteleria\proyecto_hoteleria\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ALUMNOS\Desktop\proyecto_hoteleria_preliminar\proyecto_hoteleria\proyecto_hoteleria\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\ALUMNOS\Desktop\proyecto_hoteleria_preliminar\proyecto_hoteleria\proyecto_hoteleria\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\ALUMNOS\Desktop\proyecto_hoteleria_preliminar\proyecto_hoteleria\proyecto_hoteleria\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\ALUMNOS\Desktop\proyecto_hoteleria_preliminar\proyecto_hoteleria\proyecto_hoteleria\bin\es\System.Web.Helpers.resources.dll
+C:\Users\ALUMNOS\Desktop\proyecto_hoteleria_preliminar\proyecto_hoteleria\proyecto_hoteleria\bin\es\System.Web.Mvc.resources.dll
+C:\Users\ALUMNOS\Desktop\proyecto_hoteleria_preliminar\proyecto_hoteleria\proyecto_hoteleria\bin\es\System.Web.Optimization.resources.dll
+C:\Users\ALUMNOS\Desktop\proyecto_hoteleria_preliminar\proyecto_hoteleria\proyecto_hoteleria\bin\es\System.Web.Razor.resources.dll
+C:\Users\ALUMNOS\Desktop\proyecto_hoteleria_preliminar\proyecto_hoteleria\proyecto_hoteleria\bin\es\System.Web.WebPages.resources.dll
+C:\Users\ALUMNOS\Desktop\proyecto_hoteleria_preliminar\proyecto_hoteleria\proyecto_hoteleria\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\ALUMNOS\Desktop\proyecto_hoteleria_preliminar\proyecto_hoteleria\proyecto_hoteleria\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\ALUMNOS\Desktop\proyecto_hoteleria_preliminar\proyecto_hoteleria\proyecto_hoteleria\bin\es\EntityFramework.resources.dll
+C:\Users\ALUMNOS\Desktop\proyecto_hoteleria_preliminar\proyecto_hoteleria\proyecto_hoteleria\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\ALUMNOS\Desktop\proyecto_hoteleria_preliminar\proyecto_hoteleria\proyecto_hoteleria\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\ALUMNOS\Desktop\proyecto_hoteleria_preliminar\proyecto_hoteleria\proyecto_hoteleria\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\ALUMNOS\Desktop\proyecto_hoteleria_preliminar\proyecto_hoteleria\proyecto_hoteleria\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\ALUMNOS\Desktop\proyecto_hoteleria_preliminar\proyecto_hoteleria\proyecto_hoteleria\bin\es\Microsoft.Owin.resources.dll
+C:\Users\ALUMNOS\Desktop\proyecto_hoteleria_preliminar\proyecto_hoteleria\proyecto_hoteleria\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\ALUMNOS\Desktop\proyecto_hoteleria_preliminar\proyecto_hoteleria\proyecto_hoteleria\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\ALUMNOS\Desktop\proyecto_hoteleria_preliminar\proyecto_hoteleria\proyecto_hoteleria\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\ALUMNOS\Desktop\proyecto_hoteleria_preliminar\proyecto_hoteleria\proyecto_hoteleria\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\ALUMNOS\Desktop\proyecto_hoteleria_preliminar\proyecto_hoteleria\proyecto_hoteleria\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\ALUMNOS\Desktop\proyecto_hoteleria_preliminar\proyecto_hoteleria\proyecto_hoteleria\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\ALUMNOS\Desktop\proyecto_hoteleria_preliminar\proyecto_hoteleria\proyecto_hoteleria\obj\Debug\proyecto_hoteleria.csprojAssemblyReference.cache
+C:\Users\ALUMNOS\Desktop\proyecto_hoteleria_preliminar\proyecto_hoteleria\proyecto_hoteleria\obj\Debug\proyecto_hoteleria.csproj.CopyComplete
+C:\Users\ALUMNOS\Desktop\proyecto_hoteleria_preliminar\proyecto_hoteleria\proyecto_hoteleria\obj\Debug\proyecto_hoteleria.dll
+C:\Users\ALUMNOS\Desktop\proyecto_hoteleria_preliminar\proyecto_hoteleria\proyecto_hoteleria\obj\Debug\proyecto_hoteleria.pdb
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria\proyecto_hoteleria\bin\ApplicationInsights.config
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria\proyecto_hoteleria\bin\roslyn\csc.exe
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria\proyecto_hoteleria\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria\proyecto_hoteleria\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria\proyecto_hoteleria\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria\proyecto_hoteleria\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria\proyecto_hoteleria\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria\proyecto_hoteleria\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria\proyecto_hoteleria\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria\proyecto_hoteleria\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria\proyecto_hoteleria\bin\roslyn\vbc.exe
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria\proyecto_hoteleria\bin\roslyn\VBCSCompiler.exe
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria\proyecto_hoteleria\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria\proyecto_hoteleria\bin\proyecto_hoteleria.dll.config
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria\proyecto_hoteleria\bin\proyecto_hoteleria.dll
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria\proyecto_hoteleria\bin\proyecto_hoteleria.pdb
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria\proyecto_hoteleria\bin\Antlr3.Runtime.dll
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria\proyecto_hoteleria\bin\EntityFramework.dll
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria\proyecto_hoteleria\bin\EntityFramework.SqlServer.dll
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria\proyecto_hoteleria\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria\proyecto_hoteleria\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria\proyecto_hoteleria\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria\proyecto_hoteleria\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria\proyecto_hoteleria\bin\Microsoft.AI.Web.dll
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria\proyecto_hoteleria\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria\proyecto_hoteleria\bin\Microsoft.ApplicationInsights.dll
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria\proyecto_hoteleria\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria\proyecto_hoteleria\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria\proyecto_hoteleria\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria\proyecto_hoteleria\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria\proyecto_hoteleria\bin\Microsoft.Owin.dll
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria\proyecto_hoteleria\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria\proyecto_hoteleria\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria\proyecto_hoteleria\bin\Microsoft.Owin.Security.dll
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria\proyecto_hoteleria\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria\proyecto_hoteleria\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria\proyecto_hoteleria\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria\proyecto_hoteleria\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria\proyecto_hoteleria\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria\proyecto_hoteleria\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria\proyecto_hoteleria\bin\Newtonsoft.Json.dll
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria\proyecto_hoteleria\bin\Owin.dll
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria\proyecto_hoteleria\bin\System.Web.Helpers.dll
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria\proyecto_hoteleria\bin\System.Web.Mvc.dll
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria\proyecto_hoteleria\bin\System.Web.Optimization.dll
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria\proyecto_hoteleria\bin\System.Web.Razor.dll
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria\proyecto_hoteleria\bin\System.Web.WebPages.Deployment.dll
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria\proyecto_hoteleria\bin\System.Web.WebPages.dll
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria\proyecto_hoteleria\bin\System.Web.WebPages.Razor.dll
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria\proyecto_hoteleria\bin\WebGrease.dll
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria\proyecto_hoteleria\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria\proyecto_hoteleria\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria\proyecto_hoteleria\bin\Microsoft.AI.Web.xml
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria\proyecto_hoteleria\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria\proyecto_hoteleria\bin\Microsoft.ApplicationInsights.xml
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria\proyecto_hoteleria\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria\proyecto_hoteleria\bin\System.Web.Helpers.xml
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria\proyecto_hoteleria\bin\System.Web.Mvc.xml
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria\proyecto_hoteleria\bin\System.Web.Optimization.xml
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria\proyecto_hoteleria\bin\System.Web.Razor.xml
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria\proyecto_hoteleria\bin\System.Web.WebPages.xml
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria\proyecto_hoteleria\bin\System.Web.WebPages.Deployment.xml
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria\proyecto_hoteleria\bin\System.Web.WebPages.Razor.xml
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria\proyecto_hoteleria\bin\Antlr3.Runtime.pdb
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria\proyecto_hoteleria\bin\Newtonsoft.Json.xml
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria\proyecto_hoteleria\bin\EntityFramework.xml
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria\proyecto_hoteleria\bin\EntityFramework.SqlServer.xml
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria\proyecto_hoteleria\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria\proyecto_hoteleria\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria\proyecto_hoteleria\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria\proyecto_hoteleria\bin\Microsoft.Owin.xml
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria\proyecto_hoteleria\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria\proyecto_hoteleria\bin\Microsoft.Owin.Security.xml
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria\proyecto_hoteleria\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria\proyecto_hoteleria\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria\proyecto_hoteleria\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria\proyecto_hoteleria\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria\proyecto_hoteleria\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria\proyecto_hoteleria\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria\proyecto_hoteleria\bin\es\System.Web.Helpers.resources.dll
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria\proyecto_hoteleria\bin\es\System.Web.Mvc.resources.dll
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria\proyecto_hoteleria\bin\es\System.Web.Optimization.resources.dll
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria\proyecto_hoteleria\bin\es\System.Web.Razor.resources.dll
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria\proyecto_hoteleria\bin\es\System.Web.WebPages.resources.dll
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria\proyecto_hoteleria\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria\proyecto_hoteleria\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria\proyecto_hoteleria\bin\es\EntityFramework.resources.dll
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria\proyecto_hoteleria\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria\proyecto_hoteleria\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria\proyecto_hoteleria\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria\proyecto_hoteleria\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria\proyecto_hoteleria\bin\es\Microsoft.Owin.resources.dll
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria\proyecto_hoteleria\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria\proyecto_hoteleria\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria\proyecto_hoteleria\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria\proyecto_hoteleria\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria\proyecto_hoteleria\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria\proyecto_hoteleria\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria\proyecto_hoteleria\obj\Debug\proyecto_hoteleria.csprojResolveAssemblyReference.cache
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria\proyecto_hoteleria\obj\Debug\proyecto_hoteleria.dll
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria\proyecto_hoteleria\obj\Debug\proyecto_hoteleria.pdb
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria(principal)\proyecto_hoteleria\bin\ApplicationInsights.config
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria(principal)\proyecto_hoteleria\bin\roslyn\csc.exe
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria(principal)\proyecto_hoteleria\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria(principal)\proyecto_hoteleria\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria(principal)\proyecto_hoteleria\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria(principal)\proyecto_hoteleria\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria(principal)\proyecto_hoteleria\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria(principal)\proyecto_hoteleria\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria(principal)\proyecto_hoteleria\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria(principal)\proyecto_hoteleria\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria(principal)\proyecto_hoteleria\bin\roslyn\vbc.exe
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria(principal)\proyecto_hoteleria\bin\roslyn\VBCSCompiler.exe
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria(principal)\proyecto_hoteleria\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria(principal)\proyecto_hoteleria\bin\proyecto_hoteleria.dll.config
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria(principal)\proyecto_hoteleria\bin\proyecto_hoteleria.dll
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria(principal)\proyecto_hoteleria\bin\proyecto_hoteleria.pdb
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria(principal)\proyecto_hoteleria\bin\Antlr3.Runtime.dll
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria(principal)\proyecto_hoteleria\bin\EntityFramework.dll
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria(principal)\proyecto_hoteleria\bin\EntityFramework.SqlServer.dll
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria(principal)\proyecto_hoteleria\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria(principal)\proyecto_hoteleria\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria(principal)\proyecto_hoteleria\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria(principal)\proyecto_hoteleria\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria(principal)\proyecto_hoteleria\bin\Microsoft.AI.Web.dll
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria(principal)\proyecto_hoteleria\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria(principal)\proyecto_hoteleria\bin\Microsoft.ApplicationInsights.dll
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria(principal)\proyecto_hoteleria\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria(principal)\proyecto_hoteleria\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria(principal)\proyecto_hoteleria\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria(principal)\proyecto_hoteleria\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria(principal)\proyecto_hoteleria\bin\Microsoft.Owin.dll
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria(principal)\proyecto_hoteleria\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria(principal)\proyecto_hoteleria\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria(principal)\proyecto_hoteleria\bin\Microsoft.Owin.Security.dll
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria(principal)\proyecto_hoteleria\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria(principal)\proyecto_hoteleria\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria(principal)\proyecto_hoteleria\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria(principal)\proyecto_hoteleria\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria(principal)\proyecto_hoteleria\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria(principal)\proyecto_hoteleria\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria(principal)\proyecto_hoteleria\bin\Newtonsoft.Json.dll
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria(principal)\proyecto_hoteleria\bin\Owin.dll
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria(principal)\proyecto_hoteleria\bin\System.Web.Helpers.dll
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria(principal)\proyecto_hoteleria\bin\System.Web.Mvc.dll
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria(principal)\proyecto_hoteleria\bin\System.Web.Optimization.dll
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria(principal)\proyecto_hoteleria\bin\System.Web.Razor.dll
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria(principal)\proyecto_hoteleria\bin\System.Web.WebPages.Deployment.dll
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria(principal)\proyecto_hoteleria\bin\System.Web.WebPages.dll
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria(principal)\proyecto_hoteleria\bin\System.Web.WebPages.Razor.dll
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria(principal)\proyecto_hoteleria\bin\WebGrease.dll
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria(principal)\proyecto_hoteleria\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria(principal)\proyecto_hoteleria\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria(principal)\proyecto_hoteleria\bin\Microsoft.AI.Web.xml
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria(principal)\proyecto_hoteleria\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria(principal)\proyecto_hoteleria\bin\Microsoft.ApplicationInsights.xml
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria(principal)\proyecto_hoteleria\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria(principal)\proyecto_hoteleria\bin\System.Web.Helpers.xml
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria(principal)\proyecto_hoteleria\bin\System.Web.Mvc.xml
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria(principal)\proyecto_hoteleria\bin\System.Web.Optimization.xml
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria(principal)\proyecto_hoteleria\bin\System.Web.Razor.xml
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria(principal)\proyecto_hoteleria\bin\System.Web.WebPages.xml
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria(principal)\proyecto_hoteleria\bin\System.Web.WebPages.Deployment.xml
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria(principal)\proyecto_hoteleria\bin\System.Web.WebPages.Razor.xml
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria(principal)\proyecto_hoteleria\bin\Antlr3.Runtime.pdb
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria(principal)\proyecto_hoteleria\bin\Newtonsoft.Json.xml
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria(principal)\proyecto_hoteleria\bin\EntityFramework.xml
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria(principal)\proyecto_hoteleria\bin\EntityFramework.SqlServer.xml
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria(principal)\proyecto_hoteleria\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria(principal)\proyecto_hoteleria\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria(principal)\proyecto_hoteleria\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria(principal)\proyecto_hoteleria\bin\Microsoft.Owin.xml
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria(principal)\proyecto_hoteleria\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria(principal)\proyecto_hoteleria\bin\Microsoft.Owin.Security.xml
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria(principal)\proyecto_hoteleria\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria(principal)\proyecto_hoteleria\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria(principal)\proyecto_hoteleria\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria(principal)\proyecto_hoteleria\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria(principal)\proyecto_hoteleria\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria(principal)\proyecto_hoteleria\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria(principal)\proyecto_hoteleria\bin\es\System.Web.Helpers.resources.dll
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria(principal)\proyecto_hoteleria\bin\es\System.Web.Mvc.resources.dll
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria(principal)\proyecto_hoteleria\bin\es\System.Web.Optimization.resources.dll
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria(principal)\proyecto_hoteleria\bin\es\System.Web.Razor.resources.dll
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria(principal)\proyecto_hoteleria\bin\es\System.Web.WebPages.resources.dll
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria(principal)\proyecto_hoteleria\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria(principal)\proyecto_hoteleria\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria(principal)\proyecto_hoteleria\bin\es\EntityFramework.resources.dll
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria(principal)\proyecto_hoteleria\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria(principal)\proyecto_hoteleria\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria(principal)\proyecto_hoteleria\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria(principal)\proyecto_hoteleria\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria(principal)\proyecto_hoteleria\bin\es\Microsoft.Owin.resources.dll
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria(principal)\proyecto_hoteleria\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria(principal)\proyecto_hoteleria\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria(principal)\proyecto_hoteleria\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria(principal)\proyecto_hoteleria\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria(principal)\proyecto_hoteleria\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria(principal)\proyecto_hoteleria\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria(principal)\proyecto_hoteleria\obj\Debug\proyecto_hoteleria.csprojResolveAssemblyReference.cache
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria(principal)\proyecto_hoteleria\obj\Debug\proyecto_hoteleria.dll
+C:\Users\geral\Desktop\TALLER DE PROGRAMACION\proyecto_hoteleria(principal)\proyecto_hoteleria\obj\Debug\proyecto_hoteleria.pdb
+C:\Users\geral\Desktop\MATERIAL DE ESTUDIO\4to SEMESTRE\TALLER DE PROGRAMACION\TALLER DE PROGRAMACION_01\proyecto_hoteleria(principal)\proyecto_hoteleria\obj\Debug\proyecto_hoteleria.dll
+C:\Users\geral\Desktop\MATERIAL DE ESTUDIO\4to SEMESTRE\TALLER DE PROGRAMACION\TALLER DE PROGRAMACION_01\proyecto_hoteleria(principal)\proyecto_hoteleria\obj\Debug\proyecto_hoteleria.pdb
+C:\Users\geral\Desktop\MATERIAL DE ESTUDIO\4to SEMESTRE\TALLER DE PROGRAMACION\TALLER DE PROGRAMACION_01\proyecto_hoteleria(principal)\proyecto_hoteleria\obj\Debug\proyecto_hoteleria.csproj.AssemblyReference.cache
+C:\Users\geral\Desktop\MATERIAL DE ESTUDIO\4to SEMESTRE\TALLER DE PROGRAMACION\TALLER DE PROGRAMACION_01\proyecto_hoteleria(principal)\proyecto_hoteleria\obj\Debug\proyecto_hoteleria.csproj.CoreCompileInputs.cache

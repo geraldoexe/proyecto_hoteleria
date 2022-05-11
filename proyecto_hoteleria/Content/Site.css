@@ -1,0 +1,85 @@
+﻿body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+    background-color: rgb(225,236,167);
+}
+
+
+h1{
+    font-family:'Eras ITC';
+    font-style:italic;
+    font-weight:700;
+    font-stretch:condensed;
+    padding: 20px 20px 10px 300px;
+    font-style:italic;
+}
+
+h2{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight:900;
+    font-size:165%;
+}
+/*table{
+    padding: 30px 30px 0px 80px;
+    
+}*/
+
+tr{
+    background-color:rgb(225,236,135);
+    padding: 30px 20px 30px 50px;
+}
+/*td {
+    margin: 10px;
+    padding: 10px 50px 0px 10px;
+    width: 10px;
+}
+*/
+
+.card {
+}
+
+/* Set padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 35px;
+}
+
+/* Override the default bootstrap behavior where horizontal description lists 
+   will truncate terms that are too long to fit in the left column 
+*/
+.dl-horizontal dt {
+    white-space: normal;
+}
+
+/* Set width on the form input elements since they're 100% wide by default */
+input,
+select,
+textarea {
+    max-width: 280px;
+}
+
+.formulario {
+    color:black;
+    background: rgb(222,255,223);
+    background: linear-gradient(90deg, rgba(222,255,223,1) 100%, rgba(0,38,250,1) 100%);
+    margin: 20px;
+    padding-left: 30px;
+    padding-right: 15px;
+    background-image: url('img/lobby03.png');
+}
+
+.jumbotron {
+    background: rgb(222,255,223);
+    background: linear-gradient(90deg, rgba(222,255,223,1) 100%, rgba(0,38,250,1) 100%);
+    background-image: url('img/foto0022.png');
+}
+
+.body-content {
+    background-color: rgb(225,236,115);
+    padding: 30px 50px 10px 50px;
+}
+
+.form-horizontal {
+    
+}
+

@@ -1,0 +1,53 @@
+﻿
+@{
+    ViewBag.Title = " Crear cuenta administradores";
+}
+
+<h2>CUENTA ADMINISTRADORES</h2>
+<div align="right">
+    <a> INGRESO DE ADMINISTRADORES </a>
+</div>
+
+<form class="form-horizontal" action="/database/save_admin" method="post">
+    <fieldset>
+        <div class="formulario">
+            
+            <h3>INGRESE DATOS DE NUEVO ADMINISTRADOR </h3>
+
+
+            <div class="control-group">
+                <label class="control-label" for="textinput-0">Rut Admin :</label>
+                <div class="controls">
+                    <input id="textinput-0" name="rutadmin" type="text" placeholder="ingrese rut admin" class="input-xlarge" />
+                </div>
+            </div>
+
+            <!-- Text input-->
+            <div class="control-group">
+                <label class="control-label" for="textinput-1">Nombre admin:</label>
+                <div class="controls">
+                    <input id="textinput-1" name="nombreadmin" type="text" placeholder="ingrese nombre admin" class="input-xlarge" />
+                </div>
+            </div>
+
+            <div class="control-group">
+                <label class="control-label" for="textinput-2"> Tipo de cuenta :</label>
+                <div class="controls">
+                    <select name="privilegiado" type="text">
+                        <option>1</option>
+                        <option>2</option>
+                        
+                    </select>
+                </div>
+            </div><br>
+
+            <input class="btn btn-success" type="submit" value="crear cuenta" /><br>
+
+
+            <h3> Ingrese 1 si admin tiene privilegios y 2 si es que no tiene privilegios</h3>
+
+        </div>
+    </fieldset>
+</form>
+
+

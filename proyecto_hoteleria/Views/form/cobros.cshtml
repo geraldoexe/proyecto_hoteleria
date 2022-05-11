@@ -1,0 +1,24 @@
+﻿
+@{
+    ViewBag.Title = "cobros";
+}
+
+<h2>cobros</h2>
+<form action= "/cobros/reporte_finanzas" method="get">
+    Nombre:    @ViewBag.nombre <br>
+    Apellidos: @ViewBag.apellidos<br>
+    Pasaporte/CI: @ViewBag.pasaporte<br>
+    Precio:    @ViewBag.precio<br>
+    Iva:       @ViewBag.iva<br>
+    G.extras:  @ViewBag.gastosextras<br>
+    Pago:      @ViewBag.pago<br>
+    Tarjeta:   @ViewBag.tarjeta<br />
+</form>
+<br><br>
+
+
+<form method="get">
+    <br>
+    <input type="submit" class="btn btn-primary btn-lg" value="EMITIR FACTURA" />
+</form>
+

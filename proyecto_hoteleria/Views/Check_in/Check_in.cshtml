@@ -1,0 +1,334 @@
+﻿
+@{
+    ViewBag.Title = "Check_in";
+}
+
+<script type="text/javascript">
+
+    var error = "@ViewBag.Error";
+    if (error == "Error - Faltan Datos") {
+        alert(error);
+    }
+
+</script>
+
+
+<h2>Check_in</h2>
+<div align="left">
+    <a href="/Home/Checkin_Checkout">IR A INGRESO Y SALIDA DE HUÉSPEDES</a>
+</div>
+<div align="right">
+    <a href="/Home/Check_out">IR AL CHECK OUT</a>
+</div>
+
+<form class="form-horizontal" action="/database/save_checkin" act method="get">
+            <table>
+                <tr>
+                    <td>
+                        <div class="control-group">
+                            <label class="control-label" for="textinput-14">ID Check in:</label>
+                            <div class="controls">
+                                <input id="textinput-14" name="id_checkin" type="text" placeholder="ingrese id check in" class="input-xlarge">
+
+                            </div>
+                        </div>
+                    </td><br >
+
+                    <td>
+                        <div class="control-group">
+                            <label class="control-label" for="textinput-15">Rut:</label>
+                            <div class="controls">
+                                <input id="textinput-15" name="rut" type="text" placeholder="ingrese rut del huésped" class="input-xlarge">
+                            </div>
+                        </div>
+                    </td>&nbsp;&nbsp;
+
+                    <td>
+                        <div class="control-group">
+                            <label class="control-label" for="textinput-16">Direccion</label>
+                            <div class="controls">
+
+                                <input id="textinput-16" name="direccion" type="text" placeholder="direccion" class="input-xlarge">
+                            </div>
+                        </div>
+                    </td>
+                </tr>
+            </table><br>
+
+            <table>
+                <tr>
+                    <td>
+                        <div class="control-group">
+                            <label class="control-label" for="textinput-17">Fecha Llegada:</label>
+                            <div class="controls">
+                                <input id="textinput-17" name="fecha_llegada" type="text" placeholder="" class="input-xlarge">
+                            </div>
+                        </div>
+                    </td>
+
+                    <td>
+                        <div class="control-group">
+                            <label class="control-label" for="selectbasic-1">Noches</label>
+                            <div class="controls">
+                                <select id="selectbasic-1" name="noches" class="input-xlarge">
+                                    <option>1</option>
+                                    <option>2</option>
+                                    <option>3</option>
+                                    <option>4</option>
+                                    <option>5</option>
+                                    <option>6</option>
+                                    <option>7</option>
+                                    <option>8</option>
+                                    <option>9</option>
+                                    <option>10</option>
+                                    <option>11</option>
+                                    <option>12</option>
+                                    <option>13</option>
+                                    <option>14</option>
+                                    <option>15</option>
+                                </select>
+                            </div>
+                        </div>
+                    </td>
+
+                    <td>
+                        <div class="control-group">
+                            <label class="control-label" for="textinput-18"> Fecha Salida:</label>
+                            <div class="controls">
+                                <input id="textinput-18" name="fecha_salida" type="text" placeholder="" class="input-xlarge">
+                            </div>
+                        </div>
+                    </td>
+                </tr>
+            </table><br>
+
+            <table>
+                <tr>
+                    <td>
+                        <div class="control-group">
+                            <label class="control-label" for="selectbasic-1">Adultos</label>
+                            <div class="controls">
+                                <select id="selectbasic-1" name="adultos" class="input-xlarge">
+                                    <option>1</option>
+                                    <option>2</option>
+                                    <option>3</option>
+                                    <option>4</option>
+                                    <option>5</option>
+                                    <option>6</option>
+                                    <option>7</option>
+                                    <option>8</option>
+                                    <option>9</option>
+                                    <option>10</option>
+                                </select>
+                            </div>
+                        </div>
+                    </td>
+
+                    <td>
+                        <div class="control-group">
+                            <label class="control-label" for="selectbasic-1">Niños:</label>
+                            <div class="controls">
+                                <select id="selectbasic-1" name="niños" class="input-xlarge">
+                                    <option>0</option>
+                                    <option>1</option>
+                                    <option>2</option>
+                                    <option>3</option>
+                                    <option>4</option>
+                                    <option>5</option>
+                                </select>
+                            </div>
+                        </div>
+                    </td>
+
+                    <td>
+                        <div class="control-group">
+                            <label class="control-label" for="selectbasic-1">Numeros de Hbts:</label>
+                            <div class="controls">
+                                <select id="selectbasic-1" name="n_habitaciones" class="input-xlarge">
+                                    <option>1</option>
+                                    <option>2</option>
+                                    <option>3</option>
+                                    <option>4</option>
+                                    <option>5</option>
+                                    <option>6</option>
+                                </select>
+                            </div>
+                        </div>
+                    </td>
+                </tr>
+            </table><br>
+
+
+
+            <table>
+                <tr>
+                    <td>
+                        <div class="control-group">
+                            <label class="control-label" for="selectbasic-1">Tipo de Habitacion: </label>
+                            <div class="controls">
+                                <select id="selectbasic-1" name="tipohabitacion" class="input-xlarge">
+                                    <option> Habitacion twin 2 camas </option>
+                                    <option> Standard Matrimonial </option>
+                                    <option> Habitacion Suite </option>
+                                    <option> Habitacion Triple</option>
+                                </select>
+                            </div>
+                        </div>
+                    </td>
+
+                    <td>
+                        <div class="control-group">
+                            <label class="control-label" for="selectbasic-1">Número de Habitacion: </label>
+                            <div class="controls">
+                                <select id="selectbasic-1" name="numero_habitacion" class="input-xlarge">
+                                    <option> 200</option>
+                                    <option> 201</option>
+                                    <option> 203</option>
+                                    <option> 204</option>
+                                    <option> 205</option>
+                                    <option> 206</option>
+                                    <option> 207</option>
+                                    <option> 208</option>
+                                    <option> 209</option>
+                                    <option> 210</option>
+                                    <option> 211</option>
+                                    <option> 212</option>
+                                    <option> 213</option>
+                                    <option> 214</option>
+                                    <option> 215</option>
+                                    <option> 216</option>
+                                    <option> 217</option>
+                                    <option> 218</option>
+                                    <option> 219</option>
+                                    <option> 220</option>
+                                    <option> 300</option>
+                                    <option> 301</option>
+                                    <option> 302</option>
+                                    <option> 303</option>
+                                    <option> 304</option>
+                                    <option> 305</option>
+                                    <option> 306</option>
+                                    <option> 307</option>
+                                    <option> 308</option>
+                                    <option> 309</option>
+                                    <option> 310</option>
+                                    <option> 311</option>
+                                    <option> 312</option>
+                                    <option> 313</option>
+                                    <option> 314</option>
+                                    <option> 315</option>
+                                    <option> 316</option>
+                                    <option> 317</option>
+                                    <option> 318</option>
+                                    <option> 319</option>
+                                    <option> 320</option>
+                                    <option> 400</option>
+                                    <option> 401</option>
+                                    <option> 403</option>
+                                    <option> 404</option>
+                                    <option> 405</option>
+                                    <option> 406</option>
+                                    <option> 407</option>
+                                    <option> 408</option>
+                                    <option> 409</option>
+                                    <option> 410</option>
+                                    <option> 411</option>
+                                    <option> 412</option>
+                                    <option> 413</option>
+                                    <option> 414</option>
+                                    <option> 415</option>
+                                    <option> 416</option>
+                                    <option> 417</option>
+                                    <option> 418</option>
+                                    <option> 419</option>
+                                    <option> 420</option>
+                                    <option> 500</option>
+                                    <option> 501</option>
+                                    <option> 502</option>
+                                    <option> 503</option>
+                                    <option> 504</option>
+                                    <option> 505</option>
+                                    <option> 506</option>
+                                    <option> 507</option>
+                                    <option> 508</option>
+                                    <option> 509</option>
+                                    <option> 510</option>
+                                    <option> 511</option>
+                                    <option> 512</option>
+                                    <option> 513</option>
+                                    <option> 514</option>
+                                    <option> 515</option>
+                                    <option> 516</option>
+                                    <option> 517</option>
+                                    <option> 518</option>
+                                    <option> 519</option>
+                                    <option> 520</option>
+                                </select>
+                            </div>
+                        </div>
+                    </td>
+                </tr>
+            </table>
+
+            <h2> Forma de pago </h2>
+            <table>
+                <tr>
+                    <td>
+                        <label class="control-label" for="textinput-19"> Precio/Valor:</label>
+                        <div class="controls">
+                            <input id="textinput-19" name="precio" type="number" placeholder="" class="input-xlarge">
+                        </div>
+                    </td>
+                    <td>
+                        <div class="control-group">
+                            <label class="control-label" for="selectbasic-1">Pago: </label>
+                            <div class="controls">
+                                <select id="selectbasic-1" name="pago" class="input-xlarge">
+                                    <option>Efectivo</option>
+                                    <option>Tarjeta de credito</option>
+                                    <option>Tarjeta de debito</option>
+                                </select>
+                            </div>
+                        </div>
+                    </td>
+                    <td>
+                        <div class="control-group">
+                            <label class="control-label" for="textinput-20">N° de Tarjeta de credito:</label>
+                            <div class="controls">
+                                <input id="textinput-20" name="n_tarjetacredito" type="text" placeholder="" class="input-xlarge">
+
+                            </div>
+                        </div>
+                    </td>
+
+                </tr>
+            </table><br><br>
+
+            <input class="btn btn-primary" type="submit" value="Guardar">
+        
+        
+</form>
+
+    <form action="/database/show_checkin"method="get">  
+    <br>
+    <input type="submit" value="VER REGISTRO DE HUESPEDES" />
+    </form>
+
+<br><br>
+
+    <form action="/database/show_database" method="get">
+        <br>
+        <input type="submit" value="VER RESERVAS" />
+    </form><br><br>
+
+    <table border="1">
+        <tr>@Html.Raw(ViewBag.mensaje)</tr>
+    </table>
+
+     @ViewBag.mensaje2
+<br ><br>
+
+<form action="/database/deletereserva" method="get">
+    Rut: <input type="text" name="rutt" value="" />
+    <input type="submit" value="Eliminar Registro de Reserva  " />
+</form><br><br>

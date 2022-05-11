@@ -1,0 +1,55 @@
+﻿
+@{
+    ViewBag.Title = "Usuarios";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+
+ <head>
+    <meta charset="utf-8"/>
+    <meta name="description" content="Formulario de validacion" />
+    <title>Formulario de validacion</title>
+    <link rel="stylesheet" href="estilo.css" type="text/css"/>
+    <script type="text/javascript" src="validador.js"></script>
+</head>
+
+<body>
+    <h2>Usuarios</h2>
+    <div>
+        <a href="/Home/index">PRESIONE PARA IR A PAGINA PRINCIPAL</a><br><br>
+    </div>
+
+    <table border="1" width="100% >
+        <div class="card-group" >
+            <div class="card">
+                <tr>
+                    <td>
+                        <form action="/database/Checkin_Checkout" method="POST" align="center">
+                            <br>
+                            <label> <h4> USUARIO ADMINISTRADOR </h4> </label><br>
+
+                            <label for="email">Rut    :</label>
+                            <input type="text" id="nombre" name="rut" placeholder="Ingrese rut" /><br><br>
+                            <label for="email">Nombre:</label>
+                            <input type="text" id="nombre" name="nombre" placeholder="Ingrese nombre" /><br><br>
+
+                            <input type="submit" value="ACEPTAR" />
+                            <br><br>
+
+                            <button type="reset">Reset</button>
+                        </form>
+                        
+                    </td>
+                </tr>
+            </div>
+        </div>
+    </table>
+
+    
+
+    
+</body>
+
+
+</html>

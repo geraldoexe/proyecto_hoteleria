@@ -1,0 +1,101 @@
+﻿@{
+    ViewBag.Title = "Contacto";
+}
+
+<h3>@ViewBag.Message</h3>
+
+<form class="form-horizontal" action="/form/savecontact">
+    <fieldset>
+
+        <legend>Complete el formulario</legend>
+        <p>Gracias por tu interés. Completa el formulario de abajo para enviarnos tus preguntas o comentarios y te responderemos lo antes posible.</p>
+        <table>
+            <tr>
+                <td>
+                    <div class="control-group">
+                        <label class="control-label" for="textinput-0"></label>
+                        <div class="controls">
+                            <input id="textinput-0" name="nombre" type="text" placeholder="Nombre*" class="input-xlarge">
+
+                        </div>
+                    </div>
+                </td>
+                <td>
+                    <div class="control-group">
+                        <label class="control-label" for="textinput-1"></label>
+                        <div class="controls">
+                            <input id="textinput-1" name="apellido" type="text" placeholder="Apellido*" class="input-xlarge">
+
+                        </div>
+                    </div>
+                </td>
+
+                <td>
+                    <div class="control-group">
+                        <label class="control-label" for="textinput-2"></label>
+                        <div class="controls">
+                            <input id="textinput-2" name="mail" type="text" placeholder="Email*" class="input-xlarge">
+
+                        </div>
+                    </div>
+                </td>
+            </tr>
+        </table>
+        <table>
+            <tr>
+
+                <td>
+                    <div class="control-group">
+                        <label class="control-label" for="textinput-3"></label>
+                        <div class="controls">
+                            <input id="textinput-3" name="telefono" type="text" placeholder="Teléfono/ WhatsApp* " class="input-xlarge">
+
+                        </div>
+                    </div>
+                </td>
+
+
+                <td>
+                    <div class="control-group">
+                        <label class="control-label" for="textinput-4"></label>
+                        <div class="controls">
+                            <input id="textinput-4" name="pais" type="text" placeholder="País de Origen*" class="input-xlarge">
+
+                        </div>
+                    </div>
+                </td>
+            </tr>
+        </table>
+
+      
+
+
+        <div class="control-group">
+            <label class="control-label" for="singlebutton-0"></label>
+            <div class="controls">
+                <button id="singlebutton-0" name="singlebutton-0" class="btn btn-primary">Enviar</button>
+            </div>
+        </div>
+
+    </fieldset>
+</form><br><br>
+
+<h4>Comentarios:</h4>
+
+<form action="/form/savecontact2">
+    <textarea name="texto" cols="35" rows="5"></textarea>
+    <input type="submit" value="ENVIAR" />
+</form>
+
+
+<address>
+    Serrano 34<br />
+    Santiago Centro, WA 98052-6399<br />
+    <abbr title="Phone">P:</abbr>
+    425.555.0100
+</address>
+
+<address>
+    <strong>Support:</strong>   <a href="mailto:hotelfundador@ggmail.cl">hotelfundador@ggmail.cl</a><br />
+    <strong>Marketing:</strong> <a href="mailto:Marketing@example.com">Marketing@fundador.com</a>
+</address>

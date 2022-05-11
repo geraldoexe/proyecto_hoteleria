@@ -1,0 +1,102 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+
+<div class="jumbotron">
+    <table>
+        <tr></tr><h1><n>Hotel Fundador</n></h1></tr>
+        <tr><p class="lead"><h2 align="center"><n>En Hotel Fundador te sentirás tranquilo y cerca de todo.</n></h2></p></tr>
+    </table><br>
+        
+    <p><a href="/Home/Reserva" class="btn btn-primary btn-lg"> IR A RESERVAS &raquo;</a></p><br>
+    <p><a href="/Home/Usuarios" class="btn btn-success"> Usuarios &raquo;</a></p><br>
+
+</div>
+
+<table border="2" width="100%">
+    <div class="card-group" >
+        <div class="card">
+        <tr>
+            <td><a href="~/Content/img/foto1.png"><img src="~/Content/img/foto1.png" width="100%" /></a></td>
+            <td><a href="~/Content/img/foto2.png"><img src="~/Content/img/foto2.png" width="100%" /></a></td>
+            <td><a href="~/Content/img/foto3.png"><img src="~/Content/img/foto3.png" width="100%" /></a></td>
+        </tr>
+      </div>
+        <div>
+            <tr>
+                <td><a href="~/Content/img/foto4.png"><img src="~/Content/img/foto4.png" width="100%" /></a></td>
+                <td><a href="~/Content/img/foto5.png"><img src="~/Content/img/foto5.png" width="100%" /></a></td>
+                <td><a href="~/Content/img/foto6.png"><img src="~/Content/img/foto6.png" width="100%" /></a></td>
+                
+            </tr>
+        </div>
+    </div>
+</table><br><br>
+<table>
+    <div class="card-group">
+        <div class="card">
+           
+             <tr>
+                <td><p><h4>
+                Bienvenido a un nuevo concepto de hotel con la mejor ubicación
+                que una ciudad como Santiago es capaz de ofrecer. Desde el histórico centro
+                de la ciudad, se abre paso un nuevo Hotel Fundador donde se mezcla la tradición
+                de nuestros antepasados europeos con nuestros orígenes nativos.
+                Su diseño ha sido recientemente creado por el afamado arquitecto nacional Germán del
+                Sol, Premio Nacional de Arquitectura 2006, quien combina de manera genial,
+                telares andinos, piedra pizarra en los pisos con cálidas alfombras rústicas,
+                mucha luminosidad, muebles europeos de estilo clásico replanteados en un mundo más
+                minimalista y fresco, una verdadera fiesta de estilos que finalmente le dan el propio...
+                nuestro estilo.
+                    </h4></p></td>
+                </tr>
+        </div>
+    </div>
+</table><br><br>
+
+<footer class="pt-5 pb-3">
+    <div class="container">
+        <div class="row text-md-left text-center text-md-left mb-lg0 mb-3">
+            <div class="col-lg-3 col-md-6 mb-lg-0 mb-4">
+                <h5> Contacto </h5>
+                <ul>
+                    <li>
+                        <a href="mailto:hotelfundador@ggmail.cl" target="_blank" title="hotelfundador@ggmail.cl">
+                            hotelfundador@ggmail.cl
+                        </a>
+                    </li>
+                    <li class="footer-top_menu-item">
+                        <a href="tel:+56998989898" title="llámanos"> +56 9 98989898</a>
+                    </li>
+                </ul>
+            </div>
+                
+            <div class="col-lg-3 col-md-6 mb-lg-0 mb-4">
+                <h5>&nbsp;&nbsp;&nbsp;Menú</h5>
+                <ul class="navbar-nav mr-auto">
+                    <li>
+                        <a href=/index.cshtml" title="Contacto"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Volver</a>
+                    </li>
+                    <li>
+                        <a title="Termino y condiciones del servicio">
+                            Término y condiciones del servicio
+                        </a>
+                    </li>
+                </ul>
+            </div>
+            <div class="col-lg-3 col-md-6 mb-lg-0 mb-4">
+                <h5>Suscribete a nuestro Newsletter</h5>
+                <div id="newsletter">
+                    <form action="/formulario" method="POST">
+                        <input type="email" id="nombre" name="nombre" placeholder="Ingresa tu E-mail" /><br>
+                        <button type="button" class="btn btn-primary"> Suscríbete</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+
+</footer>
+

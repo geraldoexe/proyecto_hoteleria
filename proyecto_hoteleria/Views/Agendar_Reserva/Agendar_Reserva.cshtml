@@ -1,0 +1,160 @@
+﻿
+@{
+    ViewBag.Title = "Agendar_Reserva";
+}
+
+<h2>Agendar Reserva</h2>
+
+<script type="text/javascript">
+
+    var error = "@ViewBag.Error";
+    if (error == "Error - Faltan Datos") {
+        alert(error);
+    }
+
+</script>
+
+
+
+    <form class="form-horizontal" action="/database/save_database" act method="get">
+        
+        <fieldset>
+
+            <legend>Sus Datos</legend>
+            <div class="formulario">
+
+                <div class="control-group">
+                    <label class="control-label" for="textinput-0">Rut:</label>
+                    <div class="controls">
+                        <input id="textinput-0" name="rut" type="text" placeholder="ingrese su Rut" class="input-xlarge" />
+                    </div>
+                </div>
+
+                <!-- Text input-->
+                <div class="control-group">
+                    <label class="control-label" for="textinput-1">Nombre:</label>
+                    <div class="controls">
+                        <input id="textinput-1" name="nombre" type="text" placeholder="ingrese Nombre" class="input-xlarge" />
+
+                    </div>
+                </div>
+
+                <div class="control-group">
+                    <label class="control-label" for="textinput-2">Apellidos: </label>
+                    <div class="controls">
+                        <input id="textinput-2" name="apellidos" type="text" placeholder="Ingrese Apellido" class="input-xlarge" />
+
+                    </div>
+                </div>
+
+                <!-- Text input-->
+                <div class="control-group">
+                    <label class="control-label" for="textinput-3">E-mail</label>
+                    <div class="controls">
+                        <input id="textinput-3" name="mail" type="text" placeholder="Direccion de correo electrónico" class="input-xlarge" />
+
+                    </div>
+                </div>
+
+                <!-- Text input-->
+                <div class="control-group">
+                    <label class="control-label" for="textinput-5">Ciudad:</label>
+                    <div class="controls">
+                        <input id="textinput-5" name="ciudad" type="text" placeholder="ingrese ciudad" class="input-xlarge">
+
+                    </div>
+                </div>
+
+                <div class="control-group">
+                    <label class="control-label" for="textinput-6">Pais:</label>
+                    <div class="controls">
+                        <select name="pais" type="text">
+                            <option>Chile</option>
+                            <option>Argentina</option>
+                            <option>Colombia</option>
+                            <option>Perú</option>
+                            <option>Bolivia</option>
+                            <option>Brazil</option>
+                            <option>Mexico</option>
+                            <option>Ecuador</option>
+                            <option>España</option>
+                            <option>Estados Unidos</option>
+                            <option>Venezuela</option>
+                            <option>Otro</option>
+                        </select>
+                    </div>
+                </div>
+
+                <div class="control-group">
+                    <label class="control-label" for="textinput-6">Tipo Reserva : </label>
+                    <div class="controls">
+                        <select name="tiporeserva" type="text">
+                            <option>Individual</option>
+                            <option>Grupal</option>
+                            <option>Empresa</option>
+                        </select>
+                    </div>
+                </div>
+
+                <div class="control-group">
+                    <label class="control-label" for="textinput-6">Dia reserva : </label>
+                    <div class="controls">
+                        <select name="diareserva" type="text">
+                            <option>01/01/22</option>
+                            <option>02/01/22</option>
+                            <option>03/01/22</option>
+                            <option>04/01/22</option>
+                            <option>05/01/22</option>
+                            <option>06/01/22</option>
+                            <option>07/01/22</option>
+                            <option>08/01/22</option>
+                            <option>09/01/22</option>
+                            <option>10/01/22</option>
+                            <option>11/01/22</option>
+                            <option>12/01/22</option>
+                            <option>13/01/22</option>
+                            <option>14/01/22</option>
+                            <option>15/01/22</option>
+                            <option>16/01/22</option>
+                            <option>17/01/22</option>
+                            <option>18/01/22</option>
+                            <option>19/01/22</option>
+                            <option>20/01/22</option>
+                            <option>21/01/22</option>
+                            <option>22/01/22</option>
+                            <option>23/01/22</option>
+                            <option>24/01/22</option>
+                        </select>
+                    </div>
+                </div>
+
+                <div class="control-group">
+                    <label class="control-label" for="textinput-6">Tipo Habitación :</label>
+                    <div class="controls">
+                        <select name="tipohabitacion" type="text">
+                            <option>Twin 2 camas </option>
+                            <option>Standard Matrimonial</option>
+                            <option>Habitacion Suite</option>
+                            <option>Habitacion Triple</option>
+                        </select>
+                    </div>
+                </div>
+
+
+                <!-- Textarea -->
+                <div class="control-group">
+                    <label class="control-label" for="textarea-1">Tienes alguna petición especial?</label>
+                    <div class="controls">
+                        <textarea id="textarea-1" name="textarea-1"></textarea>
+                    </div>
+                </div><br>
+                <input class="btn btn-success" type="submit" value="ENVIAR SOLICITUD" /><br>
+
+            </div>
+
+</fieldset>
+    </form>
+
+@Html.Raw(ViewBag.mensaje)
+@ViewBag.mensaje  
+
